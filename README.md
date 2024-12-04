@@ -1,6 +1,4 @@
-Here's a suggested `README.md` file for your Git repository:
 
----
 
 # Quantum Machine Learning on Bankruptcy Prediction
 
